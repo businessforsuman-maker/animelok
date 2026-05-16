@@ -7,7 +7,7 @@ const path = require('path');
 const EXCEPTIONS_PATH = path.join(__dirname, 'data.json');
 
 const app = express();
-const port = 4030;
+const port = 4059;
 
 const CACHE_DIR = path.join(__dirname, 'cache');
 
